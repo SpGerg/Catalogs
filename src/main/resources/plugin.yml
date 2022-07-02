@@ -1,0 +1,10 @@
+name: Catalogs
+version: '${project.version}'
+main: net.spgerg.catalogs.Main
+api-version: 1.17
+authors: [ SpGerg ]
+description: Plugin for creating catalogs
+
+commands:
+  catalogs:
+    usage: /<command> [catalog]

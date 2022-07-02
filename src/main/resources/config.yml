@@ -1,0 +1,55 @@
+
+catalogs:
+  catalog:
+    permission_use: ""
+
+    text0: "&4-----+"
+    button1:
+      text: "Click|"
+      bold: true
+      italic: false
+      strikethrough: false
+      underlined: true
+      obfuscated: false
+      run_command: "/say <player>"
+      color: "RED"
+    button2:
+      text: "Click|"
+      bold: true
+      italic: false
+      strikethrough: false
+      underlined: true
+      obfuscated: false
+      run_command: "/say <player> again"
+      color: "BLUE"
+    text3: "&4-----+"
+
+  catalogAgain:
+    permission_use: ""
+
+    text0: "&4-----+"
+    button1:
+      text: "Again|"
+      bold: true
+      italic: false
+      strikethrough: false
+      underlined: true
+      obfuscated: false
+      run_command: "/say <player> again"
+      color: "RED"
+    button2:
+      text: "Again|"
+      bold: true
+      italic: false
+      strikethrough: false
+      underlined: true
+      obfuscated: false
+      run_command: "/say <player> againcatalog"
+      color: "RED"
+    text3: "&4-----+"
+
+use_in_console: "&4You can't use this command in console."
+
+can_not_use_catalog: "&3You can't this catalog!"
+
+catalog_not_found: "&2Catalog not found!"
